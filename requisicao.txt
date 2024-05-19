@@ -1,0 +1,2 @@
+https://guilhermeonrails.github.io/casadocodigo/livros.json
+https://cursos.alura.com.br/forum/topico-duvida-operador-spread-310905
